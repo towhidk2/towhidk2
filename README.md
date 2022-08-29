@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I am Towhid Khandaker
+- 🔭 A self motivated DevOps engineer having CKA certification and vast knowledge on deploying, maintaining microservices through automation in various cloud plaftform like AWS, Google Cloud. Aslo have extenvise experience in linux based server management.
+
+
+
 
 <!--
 **towhidk2/towhidk2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
