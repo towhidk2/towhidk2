@@ -39,6 +39,13 @@
 </p>
 
 
+<h3 align="left">Connect with me:</h3>
+<ul align="left">
+    <li>Certified Kubernetes Administrator (CKA) - February 2022</li>
+    <li>Red Hat Certified Engineer (RHCE) - August 2016</li>
+    <li>Red Hat Certified System Administrator (RHCSA) - August 2016</li>
+</ul>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
