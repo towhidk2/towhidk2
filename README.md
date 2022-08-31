@@ -39,7 +39,7 @@
 </p>
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Certifications:</h3>
 <ul align="left">
     <li>Certified Kubernetes Administrator (CKA) - February 2022</li>
     <li>Red Hat Certified Engineer (RHCE) - August 2016</li>
